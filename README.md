@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patow-S
 - 👀 I’m interested in develope
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on IBM
+- 🌱 I’m currently learning js , py and sql
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me solangepatowg@gmail.com
 
 <!---
