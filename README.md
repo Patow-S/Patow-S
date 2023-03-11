@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Solange Patow</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patow-s" alt="patow-s" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://patow-s.github.io/portafolio/](https://patow-s.github.io/portafolio/)
 
 - 📫 How to reach me **solangepatowg@gmail.com**
