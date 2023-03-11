@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Solange Patow</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">Desarrolladora Web con manejo de tecnologías Frontend y Backend. Soy una persona versátil con experiencia en recolectar, transformar y organizar datos para análisis que ayuden a tomar decisiones informadas, estoy continuamente aprendiendo nuevos lenguajes de programación y desarrollo de software de grandes empresas como Google, Oracle,y Alura LATAM.
+</h3>
 
 - 👨‍💻 All of my projects are available at [https://patow-s.github.io/portafolio/](https://patow-s.github.io/portafolio/)
 
