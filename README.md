@@ -33,8 +33,13 @@ Estas son las tecnologías y lenguajes de programación que utilizo en mi día a
 
 ## Contacto 
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/solange-patowg-200ok/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/solange-patowg-200ok/" height="30" width="40" /></a>
 
-<a href="https://discord.gg/Patow#0111" target="blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord" alt="Patow#0111" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/solange-patowg-200ok/" target="blank"><img align="center" src="https://skills.thijs.gg/icons?i=linkedin" alt="https://www.linkedin.com/in/solange-patowg-200ok/"/></a>
+
+<a href="https://discord.gg/Patow#0111" target="blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord" alt="Patow#0111" /></a>
+
+
+
+
 
 </p>
