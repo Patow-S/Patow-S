@@ -1,3 +1,11 @@
+//HEADER
+![footer superior](ola.svg)
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Solange Patow</h1>
 <h3 align="center">Desarrolladora Web con manejo de tecnologías Frontend y Backend. Soy una persona versátil con experiencia en recolectar, transformar y organizar datos para análisis que ayuden a tomar decisiones informadas, estoy continuamente aprendiendo nuevos lenguajes de programación y desarrollo de software de grandes empresas como Google, Oracle,y Alura LATAM.
 </h3>
