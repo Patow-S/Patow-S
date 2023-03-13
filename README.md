@@ -25,6 +25,8 @@ Estas son las tecnologías y lenguajes de programación que utilizo en mi día a
 <img align="center" src="https://skills.thijs.gg/icons?i=js,py,html,css,git,nodejs">
 
 ## Ve mis certificaciones
+<a href="https://github.com/Patow-S/CERTIFICADOS/tree/main/CERTIFICADOS/ORACLE%20-%20ALURA"><img src="img/Oracle-Symbol.png"  width="150px" /></a>
+
 
 
 ## Ve mis Estadisticas
