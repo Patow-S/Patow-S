@@ -30,7 +30,7 @@ Estas son las tecnologías y lenguajes de programación que utilizo en mi día a
 
 
 
-## Ve mis estadisticas
+## Ve mis estadísticas
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patow-s&show_icons=true&locale=en&layout=compact" alt="patow-s" /></p>
 
