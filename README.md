@@ -22,7 +22,7 @@ Este repositorio incluye un archivo README para dar una idea de mis procesos de 
 Estas son las tecnologías y lenguajes de programación que utilizo en mi día a día
 
 <p align="center" dir="auto"> 
-<img align="center" src="https://skills.thijs.gg/icons?i=js,py,html,css,git,nodejs">
+<img align="center" src="https://skills.thijs.gg/icons?i=js,html,css,git,nodejs,java">
 
 ## Ve mis certificaciones
 <!-- <p align="center" dir="auto"> -->
