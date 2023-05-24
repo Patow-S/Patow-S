@@ -8,9 +8,6 @@
 <p align="center" dir="auto"> Desarrolladora Web con manejo de tecnologías Frontend y Backend. Soy una persona versátil con experiencia en recolectar, transformar y organizar datos para análisis que ayuden a tomar decisiones informadas, estoy continuamente aprendiendo nuevos lenguajes de programación y desarrollo de software de grandes empresas como Google, Oracle,y Alura LATAM.
 </p>
 
-## Descripción
-
-Este repositorio incluye un archivo README para dar una idea de mis procesos de aprendizaje y proyectos activos en los que trabajo en mi tiempo libre.
 
 <!-- ## View my Portfolio
 > _***Text encrypter with JavaScript.***_ To test the app click <a href="">Encryption App.</a>
