@@ -29,16 +29,3 @@ Estas son las tecnologías y lenguajes de programación que utilizo en mi día a
 ## Ve mis estadísticas
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patow-s&show_icons=true&locale=en&layout=compact" alt="patow-s" /></p>
-
-## Contacto 
-<p align="center" dir="auto">
-
-<a align="center" href="https://www.linkedin.com/in/solange-patowg-200ok/" target="blank"><img align="center" src="https://skills.thijs.gg/icons?i=linkedin" alt="https://www.linkedin.com/in/solange-patowg-200ok/"/></a>
-
-<a align="center" href="https://discord.gg/Patow#0111" target="blank"><img align="center" src="https://skills.thijs.gg/icons?i=discord" alt="Patow#0111" /></a>
-
-
-
-
-
-</p>
