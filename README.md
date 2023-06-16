@@ -18,7 +18,7 @@
 Estas son las tecnologías y lenguajes de programación que utilizo en mi día a día
 
 <p align="center" dir="auto"> 
-<img align="center" src="https://skills.thijs.gg/icons?i=js,html,css,git,nodejs,java">
+<img align="center" src="https://skills.thijs.gg/icons?i=js,html,css,git,nodejs,java,spring">
 
 ## Ve mis certificaciones
 <!-- <p align="center" dir="auto"> -->
