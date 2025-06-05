@@ -5,7 +5,7 @@
 # Sobre mi 
 
 <p align="center" dir="auto"> Hola a todos!👋</p>
-<p align="center" dir="auto"> Desarrolladora Web con manejo de tecnologías Frontend y Backend. Soy una persona versátil con experiencia en recolectar, transformar y organizar datos para análisis que ayuden a tomar decisiones informadas, estoy continuamente aprendiendo nuevos lenguajes de programación y desarrollo de software de grandes empresas como Google, Oracle,y Alura LATAM.
+<p align="center" dir="auto"> 
 </p>
 
 <!-- ## View my Portfolio
