@@ -1,24 +1,15 @@
 <!-- HEADER -->
-![footer superior](ola.svg)
+# Solange Patow (PatowS) 
+
+<p align="center" dir="auto"> Hi 👋</p>
 
 
-# Sobre mi 
+## Languages and Tools 
 
-<p align="center" dir="auto"> Hola a todos!👋</p>
-<p align="center" dir="auto"> 
-</p>
 
-<!-- ## View my Portfolio
-> _***Text encrypter with JavaScript.***_ To test the app click <a href="">Encryption App.</a>
-
-> ***Currency converter with Java.*** To test the app click <a href="">Converter App.</a> -->
-
-## Tecnologías utilizadas en mis proyectos
-
-Estas son las tecnologías y lenguajes de programación que utilizo en mi día a día
 
 <p align="center" dir="auto"> 
-<img align="center" src="https://skills.thijs.gg/icons?i=js,html,css,git,nodejs,java,spring">
+[![My Skills(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## Ve mis certificaciones
 <!-- <p align="center" dir="auto"> -->
