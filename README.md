@@ -21,12 +21,15 @@
 </p>
 
 
-## Ve mis certificaciones
-<!-- <p align="center" dir="auto"> -->
-<a href="https://github.com/Patow-S/CERTIFICADOS/tree/main/CERTIFICADOS/ORACLE%20-%20ALURA"><img src="img/Oracle-Symbol.png"  width="150px" /></a>
-
-
-
-## Ve mis estadísticas
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patow-s&show_icons=true&locale=en&layout=compact" alt="patow-s" /></p>
+## Contact me
+<div align="center" style="text-align:center">
+    <a>
+        <img src="https://img.shields.io/badge/-Avi%234735-404EED?style=for-the-badge&logo=Discord&logoColor=white"
+            alt="Patow#0111 Discord">
+    </a>
+    </a>
+    <a href="https://www.linkedin.com/in/solange-patowg/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="PatowS LinkedIn">
+    </a>
+</div>  
