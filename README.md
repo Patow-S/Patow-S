@@ -5,11 +5,21 @@
 
 
 ## Languages and Tools 
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,c,aws,idea,pycharm,java,js,kali,kurbernetes,mongodb,mysql,npm,nodejs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,cpp,aws,idea,pycharm,java,js,vscode,spring,angular,ts,kali,mongodb,mysql,npm,nodejs&perline=7" />
   </a>
 </p>
+
+## I am actively learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,azure,kotlin,kubernetes,pnpm,readhat,rust&perline=7" />
+  </a>
+</p>
+
 
 ## Ve mis certificaciones
 <!-- <p align="center" dir="auto"> -->
