@@ -10,7 +10,7 @@ Hi, it's me, PatowS!  break things for fun (ethically, of course) and put them b
 
 - Specializing in Cybersecurity & Pentesting
 - Have experience with Ethical Hacking and Network Security
-- Currently obsessed with: [HTB/TryHackMe, Malware Analysis, etc.]
+- Currently obsessed with: HTB/TryHackMe, Malware Analysis, etc
 
 
 </p>
