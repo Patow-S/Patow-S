@@ -21,7 +21,7 @@ Hi, it's me, PatowS!  break things for fun (ethically, of course) and put them b
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,cpp,aws,idea,pycharm,java,js,vscode,spring,angular,ts,kali,mongodb,mysql,npm,nodejs&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,git,linux,docker,cpp,aws,idea,pycharm,java,js,vscode,spring,angular,ts,kali,mongodb,mysql,npm,nodejs,notion&perline=7" />
   </a>
 </p>
 
